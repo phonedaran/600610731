@@ -12,7 +12,7 @@ int main()
 	cin>>y;
 	cout<<"Enter d : ";
 	cin>>d;
-	cout<<"แสดงการหา?(yes/no) : ";
+	cout<<"Show method?(yes/no) : ";
 	cin>>answer;
 	N=(y-x)/d;
 	sum=x;
